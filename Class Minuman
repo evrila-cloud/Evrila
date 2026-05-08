@@ -1,0 +1,11 @@
+class Minuman {
+    public static void main(String[] args) {
+        String namaMinuman = "Es Teh";
+        int hargaMinuman = 5000;
+        int jumlahPesanan = 1;
+        System.out.println("namaMinuman:" + namaMinuman);
+        System.out.println("hargaMinuman:" + hargaMinuman); 
+        System.out.println("jumlahPesanan:" + jumlahPesanan);   
+
+    }
+}
