@@ -1,0 +1,14 @@
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Selamat datang di restoran kami!");
+        System.out.println("Silakan pilih menu yang Anda inginkan.");
+        System.out.println("idPelanggan: 001");
+        System.out.println("namaPelanggan: Evrila");
+        System.out.println("menu: Nasi Goreng");
+        System.out.println("harga: 15000");
+        System.out.println("menu: Es Teh");
+        System.out.println("harga: 5000");
+        System.out.println("Total harga: 20000");
+           
+    }
+}
