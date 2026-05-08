@@ -1,0 +1,11 @@
+class Makanan {
+    public static void main(String[] args) {
+        String namaMakanan = "Nasi Goreng";
+        int hargaMakanan = 15000;
+        int jumlahPesanan = 1;
+        System.out.println("namaMakanan:" + namaMakanan);
+        System.out.println("hargaMakanan:" + hargaMakanan); 
+        System.out.println("jumlahPesanan:" + jumlahPesanan);   
+
+    }
+}
