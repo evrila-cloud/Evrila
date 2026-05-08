@@ -1,0 +1,9 @@
+class Pembayaran {
+    public static void main(String[] args) {
+        int totalHarga = 20000;
+        String metodePembayaran = "Tunai";
+        System.out.println("totalHarga:" + totalHarga);
+        System.out.println("metodePembayaran:" + metodePembayaran); 
+
+    }
+}
