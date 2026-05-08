@@ -1,0 +1,14 @@
+class Pelanggan {
+    private static void main(String[] args) {
+        String idPelanggan = "001";
+        String namaPelanggan = "Evrila";
+        String[] MenuPesanan = {"Nasi Goreng", "Es Teh"};
+        int jumlahPesanan = 2;
+        System.out.println("idPelanggan:" + idPelanggan);
+        System.out.println("namaPelanggan:" + namaPelanggan);
+        System.out.println("MenuPesanan:" + MenuPesanan);
+        System.out.println("jumlahPesanan:" + jumlahPesanan);
+
+    }
+}
+
