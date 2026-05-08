@@ -1,0 +1,11 @@
+class Menu {
+    public static void main(String[] args) {
+        String namaMenu = "Nasi Goreng";
+        String[] JenisMenu = {"Makanan", "Minuman"};
+        int jumlahpesanan = 2;
+        System.out.println("namaMenu:" + namaMenu);
+        System.out.println("JenisMenu:" + Arrays.toString(JenisMenu));
+        System.out.println("jumlahpesanan:" + jumlahpesanan);
+
+    }
+}
